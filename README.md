@@ -1,6 +1,6 @@
 Protecting the Big Barrier Reef
 ==============================
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/31703/logos/header.png)
+[](https://storage.googleapis.com/kaggle-competitions/kaggle/31703/logos/header.png)
 
 ## Goal of the Competition
 The goal of this competition is to accurately identify starfish in real-time by building an object detection model trained on underwater videos of coral reefs.
